@@ -28,7 +28,7 @@ const App = () => {
   return (
     <>
       <SavedList list={savedList} />
-
+      <hr />
       <Route exact path="/">
         <MovieList movies={movieList} />
       </Route>
