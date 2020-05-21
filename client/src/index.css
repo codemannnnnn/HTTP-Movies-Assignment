@@ -75,3 +75,12 @@ body {
   color: red;
   text-align: center;
 }
+
+.movie-form {
+  padding: 2%;
+  margin: 3%;
+  box-shadow: 0px 0px 10px 0px black;
+  border-radius: 10px;
+  background: dodgerblue;
+  color: white;
+}
